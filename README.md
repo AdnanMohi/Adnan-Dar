@@ -78,8 +78,13 @@ Welcome to my GitHub! I'm a passionate software engineer focused on building sca
 ## 📊 GitHub Stats
 
  <p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMohi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
-  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMohi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+ <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMohi&layout=compact&theme=tokyonight&langs_count=8"
+       alt="Top Langs"
+       style="height: 200px;" />
+       
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMohi&show_icons=true&theme=tokyonight&hide_border=true"
+       alt="GitHub Stats"
+       style="height: 200px;" />
 </p>
 <br />
 <p align="center">
