@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Adnan Dar
+# Hey there! 👋 I'm Adnan Dar
 
 🎯 **Full-Stack Developer | React • Next.js • Django | SQL • MongoDB | AI & Data Enthusiast**
 
@@ -37,20 +37,6 @@ Welcome to my GitHub! I'm a passionate software engineer focused on building sca
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?logo=postman&logoColor=white&style=for-the-badge)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?logo=vercel&logoColor=white&style=for-the-badge)
 
----
-
-## 🧠 Core Skills & Competencies
-
-- **Data Structures & Algorithms (DSA)**:  
-  Scaler-certified. Strong foundation in recursion, dynamic programming, trees, graphs, and optimization.
-
-- **Low-Level Design (LLD)**:  
-  Proficient with OOP, SOLID principles, and designing modular backend services.
-
-- **High-Level Design (HLD)**:  
-  Skilled in system architecture, API design, database planning, and scalable app design patterns.
-
----
 
 ## 🚀 Featured Projects
 
@@ -82,6 +68,40 @@ Welcome to my GitHub! I'm a passionate software engineer focused on building sca
 **Tech Stack**: React, Node.js, Socket.io, WebRTC
 
 ---
+
+## 📈 GitHub Activity Graph
+
+[![Adnan's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=AdnanMohi&theme=react-dark&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AdnanMohi&layout=compact&theme=tokyonight&langs_count=8" alt="Top Langs" />
+  <br />
+  <img src="https://github-readme-stats.vercel.app/api?username=AdnanMohi&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <br />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AdnanMohi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🏆 GitHub Trophies
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=AdnanMohi&theme=darkhub&no-frame=true&margin-w=10" />
+</p>
+
+---
+
+## 🎉 Fun Facts
+
+- 💡 I solve at least one coding challenge every day  
+- ☕ Coffee and code is my favorite combo  
+- 🤓 *"Code is like humor. When you have to explain it, it’s bad."* – Cory House
+
+
 
 ## 📬 Let's Connect!
 
